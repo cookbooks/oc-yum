@@ -8,6 +8,10 @@ Based on the work done by Eric Wolfe and Charles Duffy on the yumrepo cookbook. 
 Changes
 =======
 
+## v0.5.3:
+
+* Fix epel version from 6-5 to 6-7
+
 ## v0.5.2:
 
 * [COOK-825] - epel and ius `remote_file` should notify the `rpm_package` to install
